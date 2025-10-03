@@ -6,8 +6,17 @@ DOMAIN-SUFFIX,time.windows.com
 DOMAIN-SUFFIX,lanzov.com
 DOMAIN-SUFFIX,hao123.com
 
+# PT
+DOMAIN-SUFFIX,m-team.cc
+DOMAIN-SUFFIX,m-team.io
+DOMAIN-SUFFIX,hdsky.me
+DOMAIN-SUFFIX,ptchina.org
+
 # 域名关键字匹配
 DOMAIN-KEYWORD,baidu
+DOMAIN-KEYWORD,m-team
+DOMAIN-KEYWORD,hdsky
+DOMAIN-KEYWORD,ptchina
 
 # IP段匹配
 IP-CIDR,219.146.1.66/32,no-resolve
