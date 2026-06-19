@@ -2,6 +2,7 @@
 
 # 域名后缀匹配
 DOMAIN-SUFFIX,牧牛.com
+DOMAIN-SUFFIX,v2rayssr.com
 
 # 域名关键字匹配
 DOMAIN-KEYWORD,muniu
