@@ -1,11 +1,11 @@
 # 代理补充列表
 
 # 域名后缀匹配
-
-DOMAIN-SUFFIX,牧牛.com
+# DOMAIN-SUFFIX,牧牛.com
 
 # 域名关键字匹配
-# DOMAIN-KEYWORD,xxx
+DOMAIN-KEYWORD,muniu
+DOMAIN-KEYWORD,牧牛
 
 # IP段匹配
 # IP-CIDR,142.171.133.131/32,no-resolve
